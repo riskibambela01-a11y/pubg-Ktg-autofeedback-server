@@ -1,7 +1,0 @@
-{
-  "name": "pubg-ktg-autofeedback-server",
-  "version": "1.0.0",
-  "private": true,
-  "type": "module",
-  "description": "PUBG KTG AutoFeedback Server"
-}
