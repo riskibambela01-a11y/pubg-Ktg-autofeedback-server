@@ -229,7 +229,7 @@ export default async function handler(req, res) {
     "╚═══━━━─── • ───━━━═══╝\n" +
     "🏆PUBG GLOBAL 🏆\n" +
     "🔥 AUTO FEEDBACK 🔥\n" +
-    "🦠 Bahan: PUBG 4.7 V1 \n" +
+    "🦠 Bahan: PUBG 4.7 V2 \n" +
     htmlEscape(pubgDisplay) +
     "\n" +
     "👤 Nickname: " +
